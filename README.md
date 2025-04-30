@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adiletkadyrov/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/equkid/)
 
-I'm a second-year student at Pusan National University, studying and exploring the realms of Backend Development, Data Engineering, and Machine Learning 🎓  
+I'm a third-year student at Pusan National University, studying and exploring the realms of Backend Development, Data Engineering, and Machine Learning 🎓  
 
 Feel free to connect with me @equkid for anything(even just to say hello)!
 
